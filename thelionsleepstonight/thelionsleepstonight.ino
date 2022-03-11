@@ -237,7 +237,6 @@ void setup() {
     noTone(buzzer);
   }
 }
-
 void loop() {
-  // no need to repeat the melody.
+setup();
 }
